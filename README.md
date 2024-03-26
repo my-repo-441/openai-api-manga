@@ -1,7 +1,8 @@
 # openai-api-manga
 
-0.環境
-OS:Python3.8
+環境
+・Python3.8
+・arm64
 
 1.Pythonの仮想環境作成
 python -m venv ~/venv/openai-api-manga
